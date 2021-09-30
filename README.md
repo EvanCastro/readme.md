@@ -1,6 +1,6 @@
 ### Hi there I am Evan Castro👋
 
-I have been programming for over 50 years, and teaching for over 40 years.
+I am a Computing Student
 I specialise in ASP.NET Core MVC, although I have written programs in over 23 languages.
 I specialise in web applications using ASP.NET Core MVC and C#.
 I have created multiple websites with database back ends, various games, and systems to support teaching of computing.
